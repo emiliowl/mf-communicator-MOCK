@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.expert</groupId>
-  <artifactId>mf-communicator-MOCK</artifactId>
+  <artifactId>mf-communicator-mock</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>mf-communicator-MOCK</name>
+  <name>mf-communicator-mock</name>
   <description>A mock API that simulates the communication with mainframe</description>
   <url>http://maven.apache.org</url>
 
